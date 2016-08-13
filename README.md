@@ -15,4 +15,6 @@ resolution for LeetCode Algorithms problems
 ＃    |Title    |Solution  |
 :---:|------|----
 19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/19.cpp)
+237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/237.cpp)
+
 
