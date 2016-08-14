@@ -29,6 +29,11 @@ resolution for LeetCode Algorithms problems
 :---:|------|----
 100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/100.cpp)
 
+###Array
+＃    |Title    |Solution  |
+:---:|------|----
+217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Swift](https://github.com/ameerkat81/LeetCode/blob/master/code/217.swift)
+
 
 
 
