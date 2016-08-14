@@ -27,7 +27,7 @@ resolution for LeetCode Algorithms problems
 ###Tree
 ＃    |Title    |Solution  |
 :---:|------|----
-100|[Ransom Note](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/100.cpp)
+100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/100.cpp)
 
 
 
