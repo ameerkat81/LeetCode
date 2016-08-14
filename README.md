@@ -24,5 +24,11 @@ resolution for LeetCode Algorithms problems
 383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/383.cpp)
 
 
+###Tree
+＃    |Title    |Solution  |
+:---:|------|----
+100|[Ransom Note](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/100.cpp)
+
+
 
 
