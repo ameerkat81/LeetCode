@@ -1,8 +1,9 @@
 # LeetCode
 
-resolution for LeetCode Algorithms problems
+Solution for LeetCode Algorithms problems with C++/Swift
 
-##Classify
+##Tag
+Sorted by approaches, one same problem may appear in different Tag for different approaches
 
 ###Binary search
 ＃    |Title    |Solution  |
@@ -33,6 +34,11 @@ resolution for LeetCode Algorithms problems
 ＃    |Title    |Solution  |
 :---:|------|----
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Swift](https://github.com/ameerkat81/LeetCode/blob/master/code/217.swift)
+
+###Hash Table
+＃    |Title    |Solution  |
+:---:|------|----
+219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Swift](https://github.com/ameerkat81/LeetCode/blob/master/code/219.swift)
 
 
 
