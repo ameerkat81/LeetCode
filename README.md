@@ -21,6 +21,7 @@ PS: Sorted by approaches, one same problem may appear in different Tag for diffe
 19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/19.cpp)
 237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/237.cpp)
 206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/206.cpp)
+83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Swift](https://github.com/ameerkat81/LeetCode/blob/master/code/83.swift)
 
 <h3 id="String">String</h3>
 
