@@ -4,8 +4,7 @@ Solution for LeetCode Algorithms problems with C++/Swift
 
 ##Tag
 [Binary search](#Binary search), [Linked List](#Linked List), [String](#String), [Tree](#Tree), [Array](#Array), [Hash Table](#Hash Table), [Stack](#Stack)  
-PS: Sorted by approaches. Some problem may appear more than one time in different tags for different approaches, some just have more than one tag.
-
+Problems are taged by approaches. Some problems may have more than one tag for different approaches, some only have one approaches but related to different tags.
 
 <h3 id="Binary search">Binary search</h3>
 ＃    |Title    |Solution  |
