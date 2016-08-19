@@ -3,7 +3,7 @@
 Solution for LeetCode Algorithms problems with C++/Swift
 
 ##Tag
-[Binary search](#Binary search), [Linked List](#Linked List), [String](#String), [Tree](#Tree), [Array](#Array), [Hash Table](#Hash Table), [Stack](#Stack)  
+[Binary search](#Binary search), [Linked List](#Linked List), [String](#String), [Tree](#Tree), [Array](#Array), [Hash Table](#Hash Table), [Stack](#Stack), [Two Pointers](#Two Pointers)  
 Problems are taged by approaches. Some problems may have more than one tag for different approaches, some only have one approaches but related to different tags.
 
 <h3 id="Binary search">Binary search</h3>
@@ -47,6 +47,12 @@ Problems are taged by approaches. Some problems may have more than one tag for d
 ＃    |Title    |Solution  |
 :---:|------|----
 219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Swift](https://github.com/ameerkat81/LeetCode/blob/master/code/219.swift)
+
+<h3 id="Two Pointers">Two Pointers</h3>
+＃    |Title    |Solution  |
+:---:|------|----
+349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/349.cpp)
+
 
 
 
