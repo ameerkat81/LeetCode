@@ -42,6 +42,7 @@ Problems are taged by approaches. Some problems may have more than one tag for d
 ＃    |Title    |Solution  |
 :---:|------|----
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Swift](https://github.com/ameerkat81/LeetCode/blob/master/code/217.swift)
+283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Swift](https://github.com/ameerkat81/LeetCode/blob/master/code/283.swift)
 
 <h3 id="Hash Table">Hash Table</h3>
 ＃    |Title    |Solution  |
