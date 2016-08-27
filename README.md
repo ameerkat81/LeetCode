@@ -53,6 +53,7 @@ Problems are taged by approaches. Some problems may have more than one tag for d
 ＃    |Title    |Solution  |
 :---:|------|----
 349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/349.cpp)
+283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/283.cpp)
 
 
 
