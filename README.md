@@ -3,7 +3,7 @@
 Solution for LeetCode Algorithms problems with C++/Swift
 
 ##Tag
-[Binary search](#Binary search), [Linked List](#Linked List), [String](#String), [Tree](#Tree), [Array](#Array), [Hash Table](#Hash Table), [Stack](#Stack), [Two Pointers](#Two Pointers)  
+[Binary search](#Binary search), [Linked List](#Linked List), [String](#String), [Tree](#Tree), [Array](#Array), [Hash Table](#Hash Table), [Stack](#Stack), [Two Pointers](#Two Pointers),[Math](#Math)  
 Problems are taged by approaches. Some problems may have more than one tag for different approaches, some only have one approaches but related to different tags.
 
 <h3 id="Binary search">Binary search</h3>
@@ -55,6 +55,11 @@ Problems are taged by approaches. Some problems may have more than one tag for d
 :---:|------|----
 349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/349.cpp)
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/283.cpp)
+
+<h3 id="Math">Two Pointers</h3>
+＃    |Title    |Solution  |
+:---:|------|----
+258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/258.cpp)
 
 
 
