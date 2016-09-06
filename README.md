@@ -37,6 +37,7 @@ Problems are taged by approaches. Some problems may have more than one tag for d
 ＃    |Title    |Solution  |
 :---:|------|----
 100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/100.cpp)
+104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/104.cpp)
 
 <h3 id="Array">Array</h3>
 ＃    |Title    |Solution  |
