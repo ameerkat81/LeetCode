@@ -3,7 +3,7 @@
 Solution for LeetCode Algorithms problems with C++/Swift
 
 ##Tag
-[Binary search](#Binary search), [Linked List](#Linked List), [String](#String), [Tree](#Tree), [Array](#Array), [Hash Table](#Hash Table), [Stack](#Stack), [Two Pointers](#Two Pointers), [Math](#Math), [Binary Tree](#Binary Tree)  
+[Binary search](#Binary search), [Linked List](#Linked List), [String](#String), [Tree](#Tree), [Array](#Array), [Hash Table](#Hash Table), [Stack](#Stack), [Two Pointers](#Two Pointers), [Math](#Math), [Binary Tree](#Binary Tree)  
 Problems are taged by approaches. Some problems may have more than one tag for different approaches, some only have one approaches but related to different tags.
 
 <h3 id="Binary search">Binary search</h3>
@@ -38,6 +38,7 @@ Problems are taged by approaches. Some problems may have more than one tag for d
 :---:|------|----
 100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/100.cpp)
 104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/104.cpp)
+404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/404.cpp)
 
 <h3 id="Array">Array</h3>
 ＃    |Title    |Solution  |
