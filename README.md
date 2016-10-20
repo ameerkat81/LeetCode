@@ -63,6 +63,7 @@ Problems are taged by approaches. Some problems may have more than one tag for d
 ＃    |Title    |Solution  |
 :---:|------|----
 258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/258.cpp)
+412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](https://github.com/ameerkat81/LeetCode/blob/master/code/412.cpp)
 
 <h3 id="Binary Tree">Two Pointers</h3>
 ＃    |Title    |Solution  |
