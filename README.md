@@ -2,6 +2,10 @@
 
 Solution for LeetCode Algorithms problems with C++/Swift
 
+##Tag
+[Binary search](#Binary search), [Linked List](#Linked List), [String](#String), [Tree](#Tree), [Array](#Array), [Hash Table](#Hash Table), [Stack](#Stack), [Two Pointers](#Two Pointers), [Math](#Math), [Binary Tree](#Binary Tree)  
+Problems are taged by approaches. Some problems may have more than one tag for different approaches, some only have one approaches but related to different tags.
+
 <h3 id="Binary search">Binary search</h3>
 ＃    |Title    |Solution  |
 :---:|------|----
