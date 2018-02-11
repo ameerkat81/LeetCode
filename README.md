@@ -7,7 +7,7 @@ Solution for LeetCode Algorithms problems with C++/Swift
 Problems are taged by approaches. Some problems may have more than one tag for different approaches, some only have one approaches but related to different tags.
 
 <h3 id="Binary search">Binary search</h3>
-＃    |Title    |Solution  |
+|    |Title    |Solution  |
 :---:|------|----
 1|[Two Sum](https://leetcode.com/problems/two-sum/)|C++
 374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|C++
